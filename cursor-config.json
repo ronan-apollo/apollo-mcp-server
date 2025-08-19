@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "apollo-mcp-server": {
+      "command": "apollo-mcp-server",
+      "args": [
+        "--config",
+        "config.yaml"
+      ]
+    }
+  }
+}
